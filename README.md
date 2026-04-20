@@ -15,7 +15,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YTS-Vettel&theme=dark&border_radius=5&locale=tr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YTS-Vettel&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 </div>
 <hr>
