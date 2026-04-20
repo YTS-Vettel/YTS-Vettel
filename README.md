@@ -80,8 +80,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-tapar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirtapar1@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YTS_Vettel)
-![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white) 
-![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yasir_t1/)
+[![Kick](https://img.shields.io/badge/kick-%239146FF.svg?style=for-the-badge&logo=kick&logoColor=white)](https://kick.com/yts-vettel)
 
 ---
 
