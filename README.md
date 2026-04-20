@@ -46,6 +46,9 @@
 <!-- ABOUT THE PROJECT -->
 <!-- ## About The Project -->
 
+![YTS-Vettel's Stats](https://github-readme-stats.vercel.app/api?username=YTS-Vettel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![YTS-Vettel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YTS-Vettel&theme=vue-dark&hide_border=true)
+
 <hr> <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 👋 Hi, I’m Yasir,
 
