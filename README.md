@@ -76,6 +76,8 @@
 - **Data Management:** Maintaining data integrity, handling backup operations, and generating reports.
 - **Academic Application:** Developing SQL-based algorithms and managing databases using real-world data within the scope of the **On-Site Application (Internship)** program.
 
+<div align="center">
+
 ## 🌐 Socials & Get in Touch:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasir-tapar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirtapar1@gmail.com)
@@ -85,10 +87,17 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@YTS_Vettel)
 ---
 
+</div>
+
 ## 🏆 GitHub Trophies
 [![github-trophies](https://github-profile-trophy.vercel.app/?username=yasirtapar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+  
 ## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Hal%20Abelson" alt="Hal Abelson Quote" />
-</p>
+
+| <p align="center">"Programs must be written for people to read, and only incidentally for machines to execute."<br> — **Hal Abelson** </p> |
+| :--- |
+
+
+</div>
