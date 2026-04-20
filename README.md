@@ -7,7 +7,7 @@
   <p align="center">
   "May God grant abundance"
     <br/>
-    <a href="https://github.com/YT-Vettel?tab=repositories"><strong> My Projects »</strong></a>
+    <a href="https://github.com/YTS-Vettel?tab=repositories"><strong> My Projects »</strong></a>
 <br /> <br />
 <a href="https://github.com/YT-Vettel">Refresh the Page</a>
 </p>
