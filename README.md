@@ -2,7 +2,7 @@
 
 <a id="readme-top"></a>
 <div align="center">
-  <h3 align="center">YASİR "YT-Vettel" TAPAR</h3>
+  <h3 align="center">YASİR "YTS-Vettel" TAPAR</h3>
 
   <p align="center">
   🇹🇷  - 🧡💙💛 - 🏁 - 🎧
