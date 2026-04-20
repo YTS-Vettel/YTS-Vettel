@@ -82,7 +82,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YTS_Vettel)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yasir_t1/)
 [![Kick](https://img.shields.io/badge/kick-%239146FF.svg?style=for-the-badge&logo=kick&logoColor=white)](https://kick.com/yts-vettel)
-
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@YTS_Vettel)
 ---
 
 ## 🏆 GitHub Trophies
