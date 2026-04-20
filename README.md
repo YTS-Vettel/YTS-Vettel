@@ -27,11 +27,9 @@
 ---
 
 ## 💼 What I Do
-- 🔧 Design, develop, and maintain SQL databases and related projects.
-- 📊 Create reports and visualizations to support data-driven decisions.  
-- 💻  Working full-time as a Junior Database Specialist, with practical experience in managing, optimizing, and maintaining database systems. 
-- 🗃️ Actively using **SQL** and **relational database systems**
-
+- **Database Engineering:** Managing, optimizing, and maintaining mid-to-large scale database systems.
+- **Data-Driven Insights:** Creating reports and visualizations to support executive decision-making.
+- **System Configuration:** Developing technical environments and UI components for community projects.
 ---
 
 ## 🗃️ Tech & Development Focus Areas
