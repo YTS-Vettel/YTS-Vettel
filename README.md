@@ -13,9 +13,11 @@
 </p>
 </div>
 
-![YTS-Vettel's Stats](https://github-readme-stats.vercel.app/api?username=YTS-Vettel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![YTS-Vettel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YTS-Vettel&theme=vue-dark&hide_border=true)
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YTS-Vettel&theme=dark&border_radius=5&locale=tr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+</div>
 <hr>
 
 🎓 I'm a Junior Database Specialist & Computer Programming student with a strong passion for SQL, **database management**, and **software development**. 
