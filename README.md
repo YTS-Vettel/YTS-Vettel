@@ -5,7 +5,7 @@
   <h3 align="center">YASİR "YTS-Vettel" TAPAR</h3>
 
   <p align="center">
-  🇹🇷  - 🧡💙💛 - 🏁 - 🎧
+  "May God grant abundance"
     <br/>
     <a href="https://github.com/YT-Vettel?tab=repositories"><strong> My Projects »</strong></a>
 <br /> <br />
@@ -13,44 +13,10 @@
 </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<!--<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details> -->
-
-
-
-<!-- ABOUT THE PROJECT -->
-<!-- ## About The Project -->
-
 ![YTS-Vettel's Stats](https://github-readme-stats.vercel.app/api?username=YTS-Vettel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![YTS-Vettel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YTS-Vettel&theme=vue-dark&hide_border=true)
 
-<hr> <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
-👋 Hi, I’m Yasir,
+<hr>
 
 🎓 I'm a Junior Database Specialist & Computer Programming student with a strong passion for SQL, **database management**, and **software development**. 
 
